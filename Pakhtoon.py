@@ -60,7 +60,7 @@ logo = """
 \033[1;96m══║══▒═💀═▒═💀═▒═══¤═¤═¤═════════════════════║🔥"""
 
 jalan("\033[1;96m▬▬▬▬▬ EVERYTHING IS POSSIBLE TO ME ")
-jalan("\033[1;96m▬▬▬▬▬ EVERYTHING IS POSSIBLE TO ME")
+jalan("\033[1;96m▬▬▬▬▬ ASSALLAMUALAIKUM SENGA YE YAR")
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -103,8 +103,8 @@ jalan('\033[1;96m▬▬▬▬▬▬▬▬▬90%')
 jalan('\033[1;96m▬▬▬▬▬▬▬▬▬100%')
 print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mHAMAYUN.MUSA\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "HAMAYUN"
-CorrectPassword = "HACKER"
+CorrectUsername = "143"
+CorrectPassword = "143"
 
 loop = 'true'
 while (loop == 'true'):
@@ -116,10 +116,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/UCBeisPiLJnnMc2NLoznkAeQ')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.youtube.com/UCBeisPiLJnnMc2NLoznkAeQ')
 
 def login():
 	os.system('clear')
@@ -309,7 +309,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;31mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print " \033[1;31;40m●💀════════════════════════◄🦇►════════════════════════💀●"
 
-	jalan('             \033[1;31mHAMAYUN Started Cloning  Wait...')
+	jalan('             \033[1;31mHAMAYUN WAQAS IKHTISHAM Started Cloning  Wait...')
 	print  "\033[1;36;40m ●💀════════════════════════◄🦇►════════════════════════💀●" 
 
 	def main(arg):
