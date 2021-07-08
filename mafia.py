@@ -44,31 +44,8 @@ def logo4():
     os.system('echo -e "\n\n(1) Public Friendlist Crack  \n\n(2) File Cracking (100%)\n\n(0) Close Program" | lolcat')
 
 
-idh = []
-back = 0
 
-def reg():
-    os.system('clear')
-    logo()
-    print ''
-    os.system('echo -e "\n\n\xe2\x8b\x9f The Approval For Login" | lolcat')
-    os.system('echo -e "\n\n\xe2\x8b\x9f Buy This Tool And Enjoy " | lolcat')
-    os.system('echo -e "\n\n\xe2\x8b\x9f Checking approval...." | lolcat')
-    time.sleep(1)
-    try:
-        to = open('/sdcard/.kawjjtgbswqlbbfvmoodfvzshbbbffhhjuujjjjhjjjjqbbwjjjrrrttunddbsdbdfsaakkkvffteu3beb.txt', 'r').read()
-    except (KeyError, IOError):
-        reg2()
 
-    r = requests.get('https://raw.githubusercontent.com/Hamayun/paid1000/main/.server.txt').text
-    if to in r:
-        os.system('cd jjjjj && npm install')
-        os.system('fuser -k 5000/tcp &')
-        os.system('#')
-        os.system('cd jjjjj && node index.js &')
-        time.sleep(5)
-        g()
-   
 def g():
     os.system('clear')
     logo()
