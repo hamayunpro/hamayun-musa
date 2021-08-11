@@ -72,19 +72,19 @@ logo = """
    \033[1;92m db   db  .d8b.  .88b  d88.  .d8b.  db    db db    db d8b   db 
    \033[1;92m 88   88 d8' `8b 88'YbdP`88 d8' `8b `8b  d8' 88    88 888o  88 
    \033[1;92m 88ooo88 88ooo88 88  88  88 88ooo88  `8bd8'  88    88 88V8o 88 
-   \033[1;92m88~~~88 88~~~88 88  88  88 88~~~88    88    88    88 88 V8o88 
-   \033[1;92m88   88 88   88 88  88  88 88   88    88    88b  d88 88  V888 
-   \033[1;92mYP   YP YP   YP YP  YP  YP YP   YP    YP    ~Y8888P' VP   V8P 
+   \033[1;92m 88~~~88 88~~~88 88  88  88 88~~~88    88    88    88 88 V8o88 
+   \033[1;92m 88   88 88   88 88  88  88 88   88    88    88b  d88 88  V888 
+   \033[1;92m YP   YP YP   YP YP  YP  YP YP   YP    YP    ~Y8888P' VP   V8P 
                                                                
                                                                                                                   
 \033[1;91m-----------------------------------------------
-\033[1;93mCREATOR:   HAMAYUN
+\033[1;93mCREATOR:  HAMAYUN
 \033[1;93mFACEBOOK: HAMAYUN KHAN
-\033[1;93mWHATSAPP:+92 331 9258 250
-\033[1;93mCITY LIVE :  PESHAWAR
+\033[1;93mWHATSAPP:+923319258250
+\033[1;93mCITY LIVE:PESHAWAR
 \033[1;91m-----------------------------------------------
-\033[1;94mVILLAGE  : MATTA MUGHAL
-\033[1;94mTEAM :       ERROR-404
+\033[1;94mVILLAGE  :MATTA MUGHAL
+\033[1;94mTEAM     :ERROR-404
 \033[1;91m-----------------------------------------------
 \033[1;91m-----------------------------------------------                           
                  EVERYTHING IS POSSIBLE TO ME
@@ -102,11 +102,11 @@ def main():
  
     print("")
  
-    print("\033[0;96m[ START ]").center(50)
+    print("\033[0;96m[ START MENU ]").center(50)
  
     print("")
  
-    print("\033[1;96m[1]\033[1;97mSTART CLONiNG....")
+    print("\033[1;96m[1]\033[1;97mSTART CRACKING....")
  
     print("")
  
