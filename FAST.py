@@ -78,9 +78,9 @@ logo = """
                                                                
                                                                                                                   
    \033[1;91m-----------------------------------------------
-   \033[1; 93mCREATOR:  HAMAYUN
-   \033[1; 93mFACEBOOK: HAMAYUN KHAN
-   \033[1; 93mWHATSAPP:+923319258250
+   \033[1;93mCREATOR:  HAMAYUN
+   \033[1;93mFACEBOOK: HAMAYUN KHAN
+   \033[1;93mWHATSAPP:+923319258250
    \033[1;93mCITY LIVE:PESHAWAR
    \033[1;91m----------------------------------------------- 
    \033[1;94mVILLAGE  :MATTA MUGHAL
