@@ -480,7 +480,7 @@ def menu_select():
  
 	time.sleep(0.5)
  
-	print("[#] Please Wait A minute.....")
+	print("[#] Please Wait Untill The Process Stop.....")
  
 	print 47*("-")
  
