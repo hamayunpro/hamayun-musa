@@ -126,7 +126,7 @@ def main_select():
  
     if Mz  =="1":
  
-        login()
+ 
         menu()
     if Mz =="2":
  
