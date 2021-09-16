@@ -126,8 +126,8 @@ def main_select():
  
     if Mz  =="1":
  
-        login menu()
- 
+        login()
+        menu()
     if Mz =="2":
  
         os.system("xdg-open https://www.facebook.com/ham143mah")
