@@ -106,8 +106,6 @@ def main():
  
       
 	print("\033[0;96m[ START MENU ]").center(50)
-	
-	
  
       print("")
  
