@@ -107,19 +107,19 @@ def main():
       
     print("\033[0;96m[ START MENU ]").center(50)
  
-      print("")
+    print("")
  
-      print("\033[1;92m[1]\033[1;92mSTART CRACKING....")
+    print("\033[1;92m[1]\033[1;92mSTART CRACKING....")
  
-      print("")
+    print("")
  
-      print("\033[1;92m[2]\033[1;92mFOLLOW HAMAYUN KHAN ")
+    print("\033[1;92m[2]\033[1;92mFOLLOW HAMAYUN KHAN ")
  
-      print("")
+    print("")
  
-      print("\033[1;92m[0]\033[1;92mEXIT ")
+    print("\033[1;92m[0]\033[1;92mEXIT ")
  
-      print("")
+    print("")
  
     main_select()
  
