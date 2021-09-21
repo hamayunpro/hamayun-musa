@@ -643,7 +643,7 @@ def menu_select():
  
 		                                    if 'www.facebook.com' in d['error_msg']:
  
-		                                        print("\033[1;93m[CP] "+uid+" = "+pass5)
+		                                        print("\033[1;92[OK] "+uid+" = "+pass5)
  
 		                                        cp=open("mzcp.txt","a")
  
@@ -677,7 +677,7 @@ def menu_select():
  
 		                                            if 'www.facebook.com' in d['error_msg']:
  
-		                                                print("\033[1;93m[7DAYS>CP] "+uid+" = "+pass6)
+		                                                print("\033[1;92m[OK] "+uid+" = "+pass6)
  
 		                                                cp=open("mzcp.txt","a")
  
